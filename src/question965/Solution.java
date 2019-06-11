@@ -1,5 +1,8 @@
 package question965;
 
+import java.util.Collections;
+import java.util.LinkedList;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -14,7 +17,12 @@ class Solution {
     public boolean isUnivalTree(TreeNode root) {
         boolean left_correct = (root.left == null || (root.val == root.left.val) && isUnivalTree(root.left));
         boolean right_correct = (root.right == null || (root.val == root.right.val) && isUnivalTree(root.right));
+
+
+
         return left_correct && right_correct;
+
+
 
     }
 }
