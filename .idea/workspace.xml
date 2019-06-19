@@ -3,10 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="e84a3cc4-d6df-4fc2-bd12-a56d14c2bf6d" name="Default Changelist" comment="">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/src/question173/173.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/question173/BSTIterator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/question173/TreeNode.java" afterDir="false" />
 =======
+>>>>>>> Stashed changes
+=======
+      <change afterPath="$PROJECT_DIR$/src/question637/637.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question637/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question637/TreeNode.java" afterDir="false" />
 >>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,6 +35,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/src/question617/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -78,6 +85,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+=======
+>>>>>>> Stashed changes
         <entry file="file://$PROJECT_DIR$/src/question617/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -122,13 +131,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/question965/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/question173/BSTIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-128">
+            <state relative-caret-position="22">
               <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/question637/637.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/question637/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/question637/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,15 +198,6 @@
                 <element signature="e#119#120#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/question107/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -182,6 +228,7 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
         <option value="$PROJECT_DIR$/src/question199/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/question199/Solution.java" />
@@ -191,6 +238,8 @@
         <option value="$PROJECT_DIR$/src/question106/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/question106/Solution.java" />
         <option value="$PROJECT_DIR$/src/question429/Node.java" />
+=======
+>>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/src/question429/Solution.java" />
         <option value="$PROJECT_DIR$/src/question226/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/question226/Solution2.java" />
@@ -240,8 +289,14 @@
         <option value="$PROJECT_DIR$/src/question173/173.md" />
         <option value="$PROJECT_DIR$/src/question173/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/question173/BSTIterator.java" />
+<<<<<<< Updated upstream
 =======
         <option value="$PROJECT_DIR$/.gitignore" />
+>>>>>>> Stashed changes
+=======
+        <option value="$PROJECT_DIR$/src/question637/637.md" />
+        <option value="$PROJECT_DIR$/src/question637/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/question637/Solution.java" />
 >>>>>>> Stashed changes
       </list>
     </option>
@@ -276,7 +331,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="question173" type="462c0819:PsiDirectoryNode" />
+              <item name="question637" type="462c0819:PsiDirectoryNode" />
             </path>
 =======
 >>>>>>> Stashed changes
@@ -416,9 +471,13 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="72438000" />
 =======
     <option name="totallyTimeSpent" value="72201000" />
+>>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="72879000" />
 >>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
@@ -541,6 +600,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
     <entry file="file://$PROJECT_DIR$/src/question429/Node.java">
@@ -671,6 +731,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/question257/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1055,7 +1117,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/question173/BSTIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-128">
+        <state relative-caret-position="22">
           <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1063,6 +1125,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
 =======
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -1146,6 +1209,70 @@
         </settings>
       </state>
     </states>
+>>>>>>> Stashed changes
+=======
+    <entry file="file://$PROJECT_DIR$/src/question617/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question637/637.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question107/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="1" selection-start-line="16" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question637/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question107/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question965/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/question637/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
 >>>>>>> Stashed changes
   </component>
 </project>
